@@ -1,0 +1,9 @@
+sources:
+  - name: "staging_sources"
+    description: 'sources'
+    database: DB_ECOMM
+    schema: RAW
+    tables:
+      - name: customers
+      - name: orders
+      - name: payments

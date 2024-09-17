@@ -1,0 +1,8 @@
+sources:
+  - name: "raw_sources"
+    database: DB_ECOMM
+    schema: RAW
+    tables:
+      - name: customers
+      - name: orders
+      - name: payments
